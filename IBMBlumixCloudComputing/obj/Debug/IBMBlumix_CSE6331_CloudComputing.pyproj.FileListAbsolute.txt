@@ -1,0 +1,26 @@
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\attach_server.py
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\visualstudio_py_debugger.py
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\visualstudio_py_repl.py
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\visualstudio_py_util.py
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\__init__.py
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\__main__.py
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\AzureSetup.cfg
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\wfastcgi.py
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\web.config
+C:\Users\sanyt\Source\Repos\Coding-Chanllenges\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\web.debug.config
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\attach_server.py
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\visualstudio_py_debugger.py
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\visualstudio_py_repl.py
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\visualstudio_py_util.py
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\__init__.py
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\__main__.py
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\AzureSetup.cfg
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\bin\wfastcgi.py
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\web.config
+C:\Users\sanyt\Documents\Visual Studio 2015\Projects\IBMBlumix_CSE6331_CloudComputing\IBMBlumix_CSE6331_CloudComputing\obj\Debug\web.debug.config

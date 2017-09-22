@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <form action="/encryptKey" method="post" enctype="multipart/form-data">
+        Enter Encryption Key: <input type="text" name="encText" />
+    </form>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        Choose a File: <input type="file" name="thefile" /><br />
+        <input type="submit" name="up" value="Upload" />
+        <input type="submit" name="cancel" value="Cancel" />
+    </form>
+    <br />
+    <form action="/download" method="post" enctype="multipart/form-data">
+        <input type="submit" name="down" value="Download" /><br />
+    </form>
+    <form action="/lstFiles" method="post" enctype="multipart/form-data"><br />
+        <input type="submit" name="lst" value="Files List" /><br />
+    </form>
+    <p class="lead">
+        <h3>{{ title }}.</h3>
+        <h3>{{ message }}</h3>
+    </p>
+</div>
+
+{% endblock %}
